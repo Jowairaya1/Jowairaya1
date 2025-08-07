@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">I'm Jowairaya Rezk</h1>
 
+<h2 align="center">Software Engineer | Frontend Developer</h2>
+<br>
 
-**Jowairaya1/Jowairaya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Frontend%20Developer&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=jowairaya1&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="left">📤 Connect with Me:</h3>
+  <p align="left">
+    <a href="mailto:juweriayarezk@gmail.com"> <!-- Gmail -->
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/juweriaya-rezk-834444307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>
+  </p>
 
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,html,css,js,git"/>
+  </p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jowairaya1&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jowairaya1&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=Jowairaya1&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
+
+ 
