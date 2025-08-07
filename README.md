@@ -4,11 +4,6 @@
 <br>
 
   <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Frontend%20Developer&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
-    </a>
-  </p>
-
-  <p align="center">
       <img src="https://komarev.com/ghpvc/?username=jowairaya1&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
   </p>
 
@@ -21,20 +16,20 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>
   </p>
-
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,html,css,js,git"/>
   </p>
-
+<hr>
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jowairaya1&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Jowairaya1&theme=onestar&row=1&column=2"/>
   </p>
   <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jowairaya1&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jowairaya1&layout=compact&langs_count=4&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <br> <br>
     <img src="https://streak-stats.demolab.com/?user=Jowairaya1&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
   </p>
 
